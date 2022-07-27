@@ -46,16 +46,16 @@ export default function Work() {
         <S.Imgi src={Netlify} alt="" />
       </S.BoxTwo>
       <S.SectionOne>
-        <S.Ai href="https://github.com/Dandara-Aryadne/Timer_Alice_In_Wonderland">
+        <S.Ai href="https://naruto-calculator.netlify.app">
           <S.H3>Link de acesso</S.H3>
         </S.Ai>
-        <S.Ai href="https://github.com/Dandara-Aryadne/ApiDogResponsive">
+        <S.Ai href="https://api-dog-responsive.netlify.app">
           <S.H3>Link de acesso</S.H3>
         </S.Ai>
-        <S.Ai href="https://github.com/Dandara-Aryadne/CalculatorStyled">
+        <S.Ai href="https://naruto-calculator.netlify.app">
           <S.H3>Link de acesso</S.H3>
         </S.Ai>
-        <S.Ai href="https://github.com/Dandara-Aryadne/ToDoFinally">
+        <S.Ai href="https://to-do-vnw.netlify.app">
           <S.H3>Link de acesso</S.H3>
         </S.Ai>
       </S.SectionOne>
