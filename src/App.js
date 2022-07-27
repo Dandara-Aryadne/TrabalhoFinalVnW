@@ -1,8 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import * as S from "./Style/LinkStyle";
-import Element from "./img/element.png";
-import Wallpaper from "./img/wall.png";
 
 //import {BrowserRouter as Router, Routes, Route, Link} from "react-dom-router"
 import Onu from "./Components/Onu";
