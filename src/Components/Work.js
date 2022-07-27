@@ -46,7 +46,7 @@ export default function Work() {
         <S.Imgi src={Netlify} alt="" />
       </S.BoxTwo>
       <S.SectionOne>
-        <S.Ai href="https://naruto-calculator.netlify.app">
+        <S.Ai href="https://alice-wonderland-timer.netlify.app">
           <S.H3>Link de acesso</S.H3>
         </S.Ai>
         <S.Ai href="https://api-dog-responsive.netlify.app">
