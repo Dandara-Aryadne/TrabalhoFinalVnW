@@ -73,7 +73,3 @@ export const BoxOne = styled.section`
   justify-content: center;
   position: absolute;
 `;
-
-export const Img = styled.img`
-  width: 20%;
-`;

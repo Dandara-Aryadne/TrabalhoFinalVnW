@@ -185,5 +185,6 @@ export const Imagi = styled.img`
     width: 42%;
     right: 0.1vw;
     height: 40vh;
+    top: 0vh;
   }
 `;
